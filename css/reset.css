@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/*reset*/
+* {margin: 0; padding: 0;}
+a{color: #333;text-decoration: none;}
+li{list-style: none;}
+body{font-family: 'Pretendard-Regular';}
+
+.autoH:after{content: ""; display: block; clear: both;}

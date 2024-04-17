@@ -514,6 +514,7 @@ justify-content: center;align-items: center; padding: 60px 0;}
 @media screen and (max-width:900px){
     .mo {display: block;}
     .pc {display: none;}
+    b{font-weight: normal;}
     
     
 header h1{width: 141px;height: 28px; margin-left: 10px;}
